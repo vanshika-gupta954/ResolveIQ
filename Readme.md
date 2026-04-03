@@ -61,7 +61,7 @@ resolveiq/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/resolveiq.git
+git clone https://github.com/vanshika-gupta954/ResolveIQ
 cd resolveiq
 
 Install dependencies:
