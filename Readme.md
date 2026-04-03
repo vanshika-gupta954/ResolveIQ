@@ -3,7 +3,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1117,100:1c1f26&height=200&section=header&text=ResolveIQ&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-git commit -m "Fixed README badges"
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue" />
+  <img src="https://img.shields.io/badge/Framework-Streamlit-red" />
+  <img src="https://img.shields.io/badge/AI-Generative-green" />
+  <img src="https://img.shields.io/badge/Database-SQLite-yellow" />
+</p>
 
 ResolveIQ is a web-based application that automatically analyzes and categorizes support tickets using Artificial Intelligence. It helps organizations prioritize issues, detect urgency, and visualize ticket analytics in real-time.
 
